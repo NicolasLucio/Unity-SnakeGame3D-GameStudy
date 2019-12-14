@@ -362,6 +362,7 @@ MonoBehaviour:
   snakeScript: {fileID: 0}
   timerText: {fileID: 1922404239}
   scoreText: {fileID: 473104810}
+  snakeGameText: {fileID: 322873404}
 --- !u!114 &198442010
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-D:/Nícolas/Unity Projects/F2DAula08b/Build PC/SnakeGame.exe
+D:/Arquivos de Programas/Git/Unity-SnakeGame3D-GameStudy/Build PC/SnakeGame.exe
 SceneListBegin?
 Assets/Scenes/Game.unity
 SceneListEnd?
@@ -127,7 +127,7 @@ d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.Spa
 7e6ed836cbaa230e56d6a2bbae1b9bb5 Unity.Postprocessing.Runtime.dll:UnityEngine.Rendering.PostProcessing.PostProcessEffectSettings
 b8a5e8091ab0b8861d2add371082c5e0 Unity.TextMeshPro.dll:TMPro.TMP_SpriteAsset
 61b9d9b6f4b6a222dfea8b131b3d3227 Unity.Postprocessing.Runtime.dll:UnityEngine.Rendering.PostProcessing.ChromaticAberration
-dc317df5a5a96ca00455705ba9de86c2 Assembly-CSharp.dll:.PrimarySystem
+9842eb6d5f272c835877fd27e1d8f1e1 Assembly-CSharp.dll:.PrimarySystem
 b3ab2106268377ffe25dd18ac23dca28 Unity.TextMeshPro.dll:TMPro.TMP_Asset
 71bb6a6b6c8f052f948db64c7dd3ca4f Unity.Analytics.Editor.dll:UnityEditor.Analytics.AnalyticsEventTrackerEditor
 d6fc8d3165070298511ec776ea575626 Unity.Postprocessing.Runtime.dll:UnityEngine.Rendering.PostProcessing.PostProcessResources
